@@ -1,8 +1,7 @@
 # Delani Studio
 ## 04/10/2020
 ## Description
-This is  a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
-Akan names are derived from Ghanian culture.  
+Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with API's. 
 ## AUTHOR: IGIHOZO Stella Marlyne
 ## Setup/Installation Requirements
 ### Requirements
