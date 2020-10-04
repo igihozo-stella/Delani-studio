@@ -1,3 +1,13 @@
+function myFunction(){
+    var valueName =document.getElementById('name').value;
+    var valuEmail =document.getElementById('email').value;
+    var valueMessage=document.getElementById('message').value;
+    alert("Thank you"+" "+ valueName +" "+"for reaching out to us!");
+}
+    
+
+
+
 $(document).ready(function(){
     $('.design').click(function(){
         $('.design').slideUp('5000');
