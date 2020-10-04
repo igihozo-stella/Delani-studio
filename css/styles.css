@@ -31,5 +31,15 @@ body{
 
 #about{ padding:50px;}
 #about h2, #service h2, #wedo h2, #portofolio h2, #work h2, #contact h2{font-size:50px;}
-
+#service{
+    text-align:center;
+    background-image:url("../img/service.jpg"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    padding:50px;
+    
+}
 
