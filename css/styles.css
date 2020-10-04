@@ -7,3 +7,8 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+#hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
