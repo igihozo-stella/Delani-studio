@@ -99,3 +99,10 @@ form input::placeholder, form textarea{
     padding:50px 0 0 0;
     border:1px solid green;
 }
+.copyright{
+    margin-top: 25px;
+}
+.copyright p {
+    margin:0;
+    padding:0;
+}
