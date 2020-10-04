@@ -30,4 +30,4 @@ you can contact me on:
 E-Mail: igihozo96@gmail.com
 ## License
 MIT License
-Copyright &copy2020 | Stella
+Copyright (c)2020 | Stella
