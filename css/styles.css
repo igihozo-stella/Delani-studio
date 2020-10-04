@@ -2,12 +2,18 @@ body{
     font-family: 'Roboto Condensed', sans-serif;
     
 }
+.responsive-img{
+    width:100%;
+    height:auto;
+    padding:0;
+    
+}
 .container-small{
     width:70%;
     margin:auto;
 }
 #hero{
-    background-image:url("assets/backgrounds/h_img.png"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-image:url("/assets/backgrounds/h_img.jpg"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
     background-blend-mode: overlay;
     height: 100vh;
     background-position: center center;
@@ -33,7 +39,7 @@ body{
 #about h2, #service h2, #wedo h2, #portofolio h2, #work h2, #contact h2{font-size:50px;}
 #service{
     text-align:center;
-    background-image:url("assets/backgrounds/s_img.png"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-image:url("/assets/backgrounds/s_image.jpg"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
     background-blend-mode: overlay;
     background-position: center;
     background-repeat: no-repeat;
@@ -72,7 +78,7 @@ body{
 #work{padding: 50px;}
 #contact{
     text-align:center;
-    background-image:url("../img/c_image.jpg"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-image:url("/assets/backgrounds/c_image.jpg"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
     background-blend-mode: overlay;
     background-position: center;
     background-repeat: no-repeat;
