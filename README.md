@@ -1,7 +1,7 @@
 # Delani Studio
 ## 04/10/2020
 ## Description
-Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with API's. 
+Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap and javascript. 
 ## AUTHOR: IGIHOZO Stella Marlyne
 ## Setup/Installation Requirements
 ### Requirements
