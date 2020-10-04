@@ -95,3 +95,7 @@ form input, form textarea{
 form input::placeholder, form textarea{
     color:white;
 }
+#footer{
+    padding:50px 0 0 0;
+    border:1px solid green;
+}
