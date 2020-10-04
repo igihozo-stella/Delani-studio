@@ -8,7 +8,7 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 - UBUNTU
 - Atom or Visual studio code
 ### Setup and installation
-- Clone this repository to a location in your file system through your terminal command line. git clone https://github.com/igihozo-stella/Akan-project
+- Clone this repository to a location in your file system through your terminal command line. git clone https://github.com/igihozo-stella/Delani-studio
 - Open terminal command line then navigate to the root folder of the application. cd Delani-studio
 - Open your text editor using your terminal command line.
 - Open index.html in your browser.
