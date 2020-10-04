@@ -12,3 +12,12 @@
     align-items: center;
     justify-content: center;
 }
+.hero-description{
+    margin-top: 120px;
+    
+    
+}
+.hero-description h5{font-size:50px;}
+.hero-description h2{font-size:50px;}
+.hero-description img{padding: 40px 0 20px 0;}
+
