@@ -19,13 +19,11 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 - Jquery
 - Bootstrap
 ## BDD
-1. Displays Form For Entering Date and Gender
-- INPUT: "User's Birthdate Entered"
-- INPUT: "User's Gender Entered"
-- OUTPUT: "Displays User's Akan Name According to Submitted Date and Gender"
-2. Displays an Alert message when entered a wrong month or day date
-- OUTPUT: "Displays alert box with a message"
-3. ALL INPUTS ARE REQUIRED
+1. Displays Delani studio landing page
+2. Toggle between description and what we do icons.
+3. Hover transition on the portfolio images.
+4. Display about section when clicked on the mouse icon.
+5. submit email message and display message to the user in a pop up box.
 ## Support and Contact Details
 you can contact me on: 
 E-Mail: igihozo96@gmail.com
