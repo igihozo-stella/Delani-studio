@@ -92,3 +92,6 @@ form input, form textarea{
  background:none;
  margin-bottom: 30px;
 }
+form input::placeholder, form textarea{
+    color:white;
+}
