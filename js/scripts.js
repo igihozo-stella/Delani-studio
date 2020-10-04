@@ -20,3 +20,17 @@ $(document).ready(function(){
 
     });
 
+    $('.product').click(function(){
+        $('.product').slideUp('5000');
+        $('.product-text').fadeIn('3000');
+    });
+
+    $('.product-text').click(function(){
+        $('.product').slideDown('5000');
+        $('.product-text').fadeOut('slow');
+
+    });
+    $('.portofolio-img').hover(function(){
+        $('.portofolio-text',this).slideToggle('slow');
+    });
+});
