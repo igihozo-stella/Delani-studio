@@ -43,5 +43,8 @@ body{
     
 }
 #service p {padding:0; margin:0;}
+#wedo {padding: 50px;}
+.card1, .card2, .card3{ padding:30px; margin-bottom: 10px;}
 
+.design-text, .product-text, .developement-text{text-align:justify; padding:20px 0; display: none;}
 
