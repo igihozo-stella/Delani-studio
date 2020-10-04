@@ -7,7 +7,7 @@ body{
     margin:auto;
 }
 #hero{
-    background-image:url("../img/hero.jpg"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-image:url("assets/backgrounds/h_img.png"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
     background-blend-mode: overlay;
     height: 100vh;
     background-position: center center;
@@ -33,7 +33,7 @@ body{
 #about h2, #service h2, #wedo h2, #portofolio h2, #work h2, #contact h2{font-size:50px;}
 #service{
     text-align:center;
-    background-image:url("../img/service.jpg"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-image:url("assets/backgrounds/s_img.png"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
     background-blend-mode: overlay;
     background-position: center;
     background-repeat: no-repeat;
@@ -47,4 +47,25 @@ body{
 .card1, .card2, .card3{ padding:30px; margin-bottom: 10px;}
 
 .design-text, .product-text, .developement-text{text-align:justify; padding:20px 0; display: none;}
+.portofolio-img{
+    
+    position:relative;
+    
+}
 
+.portofolio-img .portofolio-text{
+    display:none;
+    opacity:1;
+    background-color: rgba(255,255,255,0.8);
+    background-color: rgba(255,255,255,0.6);
+    width:auto;
+    position:absolute;
+    bottom:0;
+    color:rgb(41, 96, 117);
+    text-align:center;
+    font-weight: bold;
+    font-size:20px;
+    padding:50px;
+    
+    height:100%;
+}
